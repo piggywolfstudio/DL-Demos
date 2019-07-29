@@ -1,2 +1,2 @@
 # DL-Demos
-DL Demos with Pytorch
+DL Demos with Python
